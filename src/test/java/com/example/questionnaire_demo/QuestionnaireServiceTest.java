@@ -1,4 +1,4 @@
-package questionnaireDemo;
+package com.example.questionnaire_demo;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
